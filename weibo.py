@@ -1,4 +1,3 @@
-#!/Users/bboysoul/.pyenv/versions/3.7.4/bin/python
 
 # <bitbar.title>微博热搜</bitbar.title>
 # <bitbar.version>v1.0</bitbar.version>

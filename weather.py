@@ -1,4 +1,3 @@
-#!/Users/bboysoul/.pyenv/versions/3.7.4/bin/python
 import requests
 import json
 import os
